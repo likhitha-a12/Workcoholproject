@@ -1,0 +1,42 @@
+[
+  {
+    "model": "eventapp.event",
+    "pk": 2,
+    "fields": {
+      "title": "Weddings",
+      "description": "Create the wedding of your dreams with our comprehensive planning, tailored to your unique style and vision. From intimate gatherings to grand celebrations, our expert team will guide you every step of the way, ensuring a stress-free and unforgettable experience.Let us bring your fairytale to life with meticulous attention to detail, personalized touches, and flawless execution."
+    }
+  },
+  {
+    "model": "eventapp.event",
+    "pk": 3,
+    "fields": {
+      "title": "Birthdays",
+      "description": "Celebrate birthdays in style with our expertly curated themes, activities, and entertainment. Whether it's a milestone birthday or a fun-filled gathering, we'll work with you to create an unforgettable experience that reflects the birthday person's personality and style. Our team will handle every detail, from decorations to cake design, to ensure a joyous and memorable celebration."
+    }
+  },
+  {
+    "model": "eventapp.event",
+    "pk": 4,
+    "fields": {
+      "title": "Corporate",
+      "description": "Professional planning for meetings, lunches, and team-building events that drive results and foster meaningful connections. Our experienced team will work closely with you to understand your objectives and preferences, crafting bespoke events that exceed your expectations. From venue selection to catering and entertainment, we'll ensure a seamless and productive experience that aligns with your company's vision and goals."
+    }
+  },
+  {
+    "model": "eventapp.event",
+    "pk": 5,
+    "fields": {
+      "title": "Concerts",
+      "description": "End-to-end concert planning, including stay setup, artist coordination, and logistical management.         Our team of experts will work tirelessly to deliver an electrifying experience that leaves your audience in awe. From venue selection to technical setup and artist management, we'll handle every aspect with precision and care, ensuring a memorable and impactful event that resonates with your audience"
+    }
+  },
+  {
+    "model": "eventapp.event",
+    "pk": 6,
+    "fields": {
+      "title": "Other",
+      "description": "From baby showers to reunions, we cover every special occasion with creativity, passion, and attention to detail.  Our team will work with you to craft unique and memorable experiences that reflect your personality, style, and preferences. Whether it's a family gathering, a milestone celebration, or a social gathering, we'll ensure a stress-free and enjoyable experience that creates lifelong memories."
+    }
+  }
+]
